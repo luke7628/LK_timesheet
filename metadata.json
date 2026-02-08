@@ -1,0 +1,7 @@
+{
+  "name": "ContractLookup",
+  "description": "A modern and lightweight contract management and search application with sage-green aesthetics and AI-powered logging capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
